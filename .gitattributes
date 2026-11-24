@@ -1,0 +1,14 @@
+* text=auto
+
+*.ps1  text eol=crlf
+*.sh   text eol=lf
+*.py   text eol=lf
+*.scad text eol=lf
+*.json text eol=lf
+*.md   text eol=lf
+
+*.stl   binary
+*.3mf   binary
+*.blend binary
+*.png   binary
+*.jpg   binary

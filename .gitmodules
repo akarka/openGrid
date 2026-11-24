@@ -1,0 +1,12 @@
+[submodule "vendor/BOSL2"]
+	path = vendor/BOSL2
+	url = https://github.com/BelfrySCAD/BOSL2.git
+[submodule "vendor/QuackWorks"]
+	path = vendor/QuackWorks
+	url = https://github.com/AndyLevesque/QuackWorks.git
+[submodule "vendor/openGrid-docs"]
+	path = vendor/openGrid-docs
+	url = https://github.com/openGrid-3D/openGrid-docs.git
+[submodule "vendor/openGrid-openSCAD"]
+	path = vendor/openGrid-openSCAD
+	url = https://github.com/openGrid-3D/openGrid-openSCAD.git

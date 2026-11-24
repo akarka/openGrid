@@ -1,0 +1,17 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "test_lite_2x2_bant": {
+            "Full_or_Lite": "Lite",
+            "Board_Width": "2",
+            "Board_Height": "2",
+            "Chamfers": "Corners",
+            "Connector_Holes": "true",
+            "Screw_Mounting": "None",
+            "Add_Adhesive_Base": "true",
+            "Adhesive_Base_Thickness": "0.6",
+            "Stack_Count": "1",
+            "Fill_Space_Mode": "None"
+        }
+    }
+}

@@ -1,0 +1,16 @@
+# Ara çıktılar (render, test)
+build/
+
+# Blender yedekleri
+*.blend1
+*.blend2
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editör
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
